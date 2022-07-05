@@ -2,7 +2,10 @@
 
 ### Structure
 
+folders `src/main/java` contain : 
+
 `Start` :arrow_forward:
+ - by running the main method you can try the <i>chess demo</i> yourself
 
 `chess`<b>`model`</b>  
 

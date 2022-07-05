@@ -1,0 +1,14 @@
+chesscontroller\Controller.class
+chessmodel\Model$PieceSet.class
+chesscontroller\ControllerImpl.class
+chessmodel\Model.class
+chessmodel\Pawn.class
+playground\playground.class
+playground\GUIplayground.class
+Start\Start.class
+chessmodel\Piece.class
+chessview\ViewImpl$ChosenPieceHandler.class
+chessview\ViewImpl$ChosenMoveHandler.class
+chessview\View.class
+playground\playgroundEx.class
+chessview\ViewImpl.class

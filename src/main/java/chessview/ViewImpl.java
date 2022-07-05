@@ -119,9 +119,9 @@ public class ViewImpl extends JFrame implements View{
     }
     
     public void getIcons() {
-        whitePawnIcon = new ImageIcon(new ImageIcon("whitePawn.png").getImage().
+        whitePawnIcon = new ImageIcon(new ImageIcon("piece_icons/whitePawn.png").getImage().
                 getScaledInstance(30, 30, java.awt.Image.SCALE_SMOOTH));
-        blackPawnIcon = new ImageIcon(new ImageIcon("blackPawn.png").getImage().
+        blackPawnIcon = new ImageIcon(new ImageIcon("piece_icons/blackPawn.png").getImage().
                 getScaledInstance(30, 30, java.awt.Image.SCALE_SMOOTH));
     }
     

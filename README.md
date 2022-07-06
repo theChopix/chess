@@ -12,7 +12,7 @@ folders `src/main/java` contain :
 
 `chess`<b>`view`</b>  
  - provides <b>gui</b> update operations
-   - which is made up of `JButton` array (from `javax.swing` library) and `ActionListener`s (`java.awt.event`) on single JFrame (`javax.swing`) 
+   - which is made up of `JButton` array (from `javax.swing` library) and `ActionListener`s (`java.awt.event`) on single `JFrame` (`javax.swing`) 
   
 `chess`<b>`controller`</b>
  - contains game-initialization methods

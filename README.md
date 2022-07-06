@@ -23,3 +23,7 @@ folders `src/main/java` contain :
    - initializes model, view, controllel and sets new game
 
 <hr />
+
+<div align="center">
+  <sub>Although I managed to submit the final fully functional version in the term, I decided to publish only the demo of the application (due to the lack    of knowledge of OOP in 2nd semester - which could have been seen in the final code)</sub>
+</div>
